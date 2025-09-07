@@ -6,7 +6,7 @@
 Este projeto é um **formulário de login moderno** desenvolvido com **HTML** e **CSS**, focado em design elegante e experiência do usuário. O layout é centralizado, responsivo e inclui visuais como **blur** no fundo e **sombras sutis**, proporcionando um visual limpo e profissional.
 
 Principais funcionalidade:
-= Campos de **usuário** e **senha** com placeholders claros.
+- Campos de **usuário** e **senha** com placeholders claros.
 - Ícones integrados nos campos usando **Boxicons**.
 - Checkboc para "Remember me" e link de "Forgot password".
 - Botão de login estilizado com efeito hover.
