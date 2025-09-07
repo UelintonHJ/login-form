@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 43vw;
+    min-height: 100vh;
     background: url(/v1016-b-09.jpg) no-repeat;
     background-size: cover;
     background-position: center;
