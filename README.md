@@ -2,7 +2,7 @@
 
 ![Login Form Image](demo.png)
 
-##🔹Sobre o projeto
+## 🔹 Sobre o projeto
 Este projeto é um **formulário de login moderno** desenvolvido com **HTML** e **CSS**, focado em design elegante e experiência do usuário. O layout é centralizado, responsivo e inclui visuais como **blur** no fundo e **sombras sutis**, proporcionando um visual limpo e profissional.
 
 Principais funcionalidade:
