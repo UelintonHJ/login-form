@@ -3,31 +3,39 @@
 ![Login Form Image](demo.png)
 
 ## 🔹 Sobre o projeto
-Este projeto é um **formulário de login moderno** desenvolvido com **HTML** e **CSS**, focado em design elegante e experiência do usuário. O layout é centralizado, responsivo e inclui visuais como **blur** no fundo e **sombras sutis**, proporcionando um visual limpo e profissional.
 
-Principais funcionalidade:
-- Campos de **usuário** e **senha** com placeholders claros.
-- Ícones integrados nos campos usando **Boxicons**.
-- Checkboc para "Remember me" e link de "Forgot password".
-- Botão de login estilizado com efeito hover.
-- Link de registro para novos usuários.
-- Fundo com imagem full-screen, mantendo proporção e centralização.
+Este projeto apresenta um formulário de login moderno, criado apenas com HTML e CSS, com foco em um design elegante e em uma boa experiência de usuário.
 
+O layout é centralizado, responsivo e utiliza efeitos como **blur** no fundo, **sombras suaves** e ícones inteuitivos, resultando em uma interface limpa e profissional.
+
+✨ Principais característica
+
+- Campos de **uauário** e **senha** com placeholders claros
+- ícones integrados via **Boxicons**
+- Checkbox *Remember me*
+- Link *Forgot passsword*
+- Botão de login com efeito *hover*
+- Link para criação de conta
+- Fundo em **full-screen** com imagem responsiva
+- Layout simples, elegante e fácil de adaptar
+  
 ---
 
-## ⚡ Demonstração
-Para visualizar o formulário funcionando:
+## ⚡ Como visualizar o projeto
 
 1. Clone o reppositório:
 ```bash
 git clone https://github.com/UelintonHJ/login-form
 ```
 
-2. Entre na pasta do projeto:
+2. Acesse a pasta:
 ```bash
 cd login-form
 ```
 
-3. Abra o arquivo index.html no navegador de sua preferência.
+3. Abra o arquivo:
+```
+index.html
+```   
 
-4. O formulário estará pronto para teste e personalização.
+Pronto - o formulário estará disponível para uso, estudo ou personalização.
